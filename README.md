@@ -1,6 +1,11 @@
-### Olá! eu sou o Thedy Wender 👋
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedy-wender/)
+## Olá! eu sou o Thedy Wender 👋
+<div style="display: inline_block"><br/>
+ <h2>Meu Contato:</h2>
+ <a href="https://www.linkedin.com/in/thedy-wender/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+ </a>
+</div>
+<br/><br/>
 
 ![Thedy GitHub stats](https://github-readme-stats.vercel.app/api?username=Thedywender&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedywender)](https://github.com/anuraghazra/github-readme-stats)
