@@ -4,10 +4,10 @@
  <a href="https://www.linkedin.com/in/thedy-wender/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
  </a>
+  <p>E-mail: seuemail@exemplo.com</p>
+ <p>Telefone: (00) 12345-6789</p>
 </div>
 <br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedywender)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso atualmente!
 
