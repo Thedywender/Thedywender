@@ -10,6 +10,9 @@
  <a href="https://wa.me/5565984039576">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
  </a>
+  <a href="LINK_DO_SEU_CURRICULO_AQUI">
+   <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
+ </a>
 </div>
 <br/><br/>
 
