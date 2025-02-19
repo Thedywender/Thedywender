@@ -4,8 +4,12 @@
  <a href="https://www.linkedin.com/in/thedy-wender/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
  </a>
-  <p>E-mail: seuemail@exemplo.com</p>
- <p>Telefone: (00) 12345-6789</p>
+  <a href="mailto:thedywender@hotmail.com">
+   <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail">
+ </a>
+ <a href="https://wa.me/5565984039576">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+ </a>
 </div>
 <br/><br/>
 
