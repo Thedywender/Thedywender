@@ -10,7 +10,7 @@
  <a href="https://wa.me/5565984039576">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
  </a>
-  <a href="(https://docs.google.com/document/d/1Wwk0nyY9kN8OHUE0btkrizauwU0r9mas/edit?usp=sharing&ouid=114095669633063549713&rtpof=true&sd=true)">
+  <a href="https://docs.google.com/document/d/1Wwk0nyY9kN8OHUE0btkrizauwU0r9mas/edit?usp=sharing&ouid=114095669633063549713&rtpof=true&sd=true">
    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
  </a>
 </div>
