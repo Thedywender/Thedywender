@@ -39,7 +39,6 @@ Trabalho com **LLMs, Deep Learning, NLP, RAG e automações com n8n**, sempre co
 <div>
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=gemini&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/NLP-3E8EDE?style=for-the-badge">
   <img src="https://img.shields.io/badge/n8n-1E90FF?style=for-the-badge&logo=n8n&logoColor=white">
