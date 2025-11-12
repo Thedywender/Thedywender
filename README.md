@@ -81,11 +81,3 @@ unindo engenharia de software, dados e automação inteligente (n8n, LangChain, 
 </div>
 
 ---
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedywender&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedywender&layout=compact&theme=radical" height="150"/>
-</div>
-
----
